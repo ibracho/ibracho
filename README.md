@@ -14,4 +14,4 @@ I build computers and fix bugs for fun! I love to play games ~
 ## 🌐 Socials:
 [![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/ibracho) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabel-bracho-76a0471a3/)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=“In+software+development,+the+best+ideas+are+often+the+old+ideas.”+—+RobertC.+Martin)]
