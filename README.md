@@ -2,7 +2,7 @@
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"><img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100" data-animated-image="" style="max-width: 100%;"></a>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=DA31F7&random=false&width=435&lines=Hi!+I'm+Isabel;I'm+a+Gamer;I'm+an+Artist)](https://git.io/typing-svg)
 
-I'm a 24 years old latin girl. **I'm studying Software Development.**
+**I'm studying Software Development.**
 I build computers and fix bugs for fun! I love to play games ~
 
 <ul>
